@@ -4,8 +4,9 @@ Notes, references and materials on AI Fairness that I found useful and helped me
 # Reading List
 
 - [ ] [AI Fairness 360: IBM open source toolkit.](https://aif360.mybluemix.net/)   
-- [ ] [Blog Post: A Tutorial on Fairness in Machine Learning](https://towardsdatascience.com/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb)
+- [ ] Blog Post:[A Tutorial on Fairness in Machine Learning](https://towardsdatascience.com/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb)
 - [ ] [CS 294: Fairness in Machine Learning](https://fairmlclass.github.io/)
+- [ ] Blog Post: [Fair AI: How to Detect and Remove Bias from Financial Services AI Models](https://medium.com/engineered-publicis-sapient/fair-ai-how-to-detect-and-remove-bias-from-financial-services-ai-models-b16a279aa1fa)
 - [ ] [Fairness Assessment for Artificial Intelligence in Financial Industry](https://arxiv.org/abs/1912.07211)
 - [ ] [Fairlearn: A toolkit for assessing and improving fairness in AI](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/Fairlearn_WhitePaper-2020-09-22.pdf)
 - [ ] [AI Fairness 360: An Extensible Toolkit for Detecting, Understanding, and Mitigating Unwanted Algorithmic Bias](https://arxiv.org/abs/1810.01943)

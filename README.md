@@ -1,7 +1,8 @@
 # AI Fairness
 Notes, references and materials on AI Fairness that I found useful and helped me in my research.
 
-# To read and take notes:
+# Reading List
+
 - [ ] [AI Fairness 360: IBM open source toolkit.](https://aif360.mybluemix.net/)   
 - [ ] [Blog Post: A Tutorial on Fairness in Machine Learning](https://towardsdatascience.com/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb)
 - [ ] [CS 294: Fairness in Machine Learning](https://fairmlclass.github.io/)
@@ -13,7 +14,7 @@ Notes, references and materials on AI Fairness that I found useful and helped me
 - [ ] [Race After Technology: Abolitionist Tools for the New Jim Code](https://www.ruhabenjamin.com/race-after-technology)
 - [ ] [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
 
-**COMPAS and criminal justice**
+### COMPAS and Criminal Justice
 - [ ] [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 - [ ] [Code Review: FairML](https://github.com/adebayoj/fairml)
 - [ ] [Code Review: Compas Analysis](https://github.com/propublica/compas-analysis)

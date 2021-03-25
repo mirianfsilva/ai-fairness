@@ -3,6 +3,7 @@ Notes, references and materials on AI Fairness that I found useful and helped me
 
 # Reading List
 
+- [ ] [The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning](https://arxiv.org/abs/1808.00023)
 - [ ] [AI Fairness 360: IBM open source toolkit.](https://aif360.mybluemix.net/)   
 - [ ] [AI Explainability 360](https://github.com/Trusted-AI/AIX360)
 - [ ] [AI Fairness 360](https://github.com/Trusted-AI/AIF360)

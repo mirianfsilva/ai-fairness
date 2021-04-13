@@ -2,7 +2,7 @@
 Notes, references and materials on AI Fairness that I found useful and helped me in my research.
 
 # Reading List
-
+- [ ] [Moving beyond “algorithmic bias is a data problem”](https://www.cell.com/patterns/fulltext/S2666-3899(21)00061-1)
 - [ ] [The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning](https://arxiv.org/abs/1808.00023)
 - [ ] [Dissecting Racial Bias in a Credit Scoring System Experimentally Developed for the Brazilian Population](https://arxiv.org/abs/2011.09865v2)
 - [ ] [AI Fairness 360: IBM open source toolkit.](https://aif360.mybluemix.net/)   

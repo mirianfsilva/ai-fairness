@@ -2,15 +2,16 @@
 Notes, references and materials on AI Fairness that I found useful and helped me in my research.
 
 # Reading List
+- [ ] [Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence](https://arxiv.org/abs/2007.04068)
 - [ ] [Moving beyond “algorithmic bias is a data problem”](https://www.cell.com/patterns/fulltext/S2666-3899(21)00061-1)
 - [ ] [The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning](https://arxiv.org/abs/1808.00023)
 - [ ] [Dissecting Racial Bias in a Credit Scoring System Experimentally Developed for the Brazilian Population](https://arxiv.org/abs/2011.09865v2)
 - [ ] [AI Fairness 360: IBM open source toolkit.](https://aif360.mybluemix.net/)   
 - [ ] [AI Explainability 360](https://github.com/Trusted-AI/AIX360)
 - [ ] [AI Fairness 360](https://github.com/Trusted-AI/AIF360)
-- [ ] Blog Post: [A Tutorial on Fairness in Machine Learning](https://towardsdatascience.com/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb)
+- [ ] [Blog Post: A Tutorial on Fairness in Machine Learning](https://towardsdatascience.com/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb)
 - [ ] [CS 294: Fairness in Machine Learning](https://fairmlclass.github.io/)
-- [ ] Blog Post: [Fair AI: How to Detect and Remove Bias from Financial Services AI Models](https://medium.com/engineered-publicis-sapient/fair-ai-how-to-detect-and-remove-bias-from-financial-services-ai-models-b16a279aa1fa)
+- [ ] [Blog Post: Fair AI: How to Detect and Remove Bias from Financial Services AI Models](https://medium.com/engineered-publicis-sapient/fair-ai-how-to-detect-and-remove-bias-from-financial-services-ai-models-b16a279aa1fa)
 - [ ] [Fairness Assessment for Artificial Intelligence in Financial Industry](https://arxiv.org/abs/1912.07211)
 - [ ] [Fairlearn: A toolkit for assessing and improving fairness in AI](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/Fairlearn_WhitePaper-2020-09-22.pdf)
 - [ ] [AI Fairness 360: An Extensible Toolkit for Detecting, Understanding, and Mitigating Unwanted Algorithmic Bias](https://arxiv.org/abs/1810.01943)
@@ -64,7 +65,7 @@ Notes, references and materials on AI Fairness that I found useful and helped me
 
 ## Measurement, sampling
 - [ ] [Raw Data is an Oxymoron](https://mitpress.mit.edu/books/raw-data-oxymoron)  
-- [ ] Blog post: [What's the most important thing in Statistics that's not in the textbooks](http://andrewgelman.com/2015/04/28/whats-important-thing-statistics-thats-not-textbooks/)  
+- [ ] [Blog Post: What's the most important thing in Statistics that's not in the textbooks](http://andrewgelman.com/2015/04/28/whats-important-thing-statistics-thats-not-textbooks/)  
 - [ ] [Deconstructing Statistical Questions](http://statlab.bio5.org/sites/default/files/fall2014/hand-deconstructin.pdf)  
 - [ ] [Statistics and the Theory of Measurement](http://www.lps.uci.edu/~johnsonk/CLASSES/MeasurementTheory/Hand1996.StatisticsAndTheTheoryOfMeasurement.pdf)  
 - [ ] [Measurement Theory and Practice: The World Through Quantification](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470685670.html)  

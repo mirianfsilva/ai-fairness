@@ -2,6 +2,7 @@
 Notes, references and materials on AI Fairness that I found useful and helped me in my research.
 
 # Reading List
+- [ ] [Metrics and methods for a systematic comparison of fairness-aware machine learning algorithms](https://arxiv.org/abs/2010.03986)
 - [ ] [Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence](https://arxiv.org/abs/2007.04068)
 - [ ] [Moving beyond “algorithmic bias is a data problem”](https://www.cell.com/patterns/fulltext/S2666-3899(21)00061-1)
 - [ ] [The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning](https://arxiv.org/abs/1808.00023)

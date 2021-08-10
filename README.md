@@ -2,12 +2,13 @@
 Notes, references and materials on AI Fairness that I found useful and helped me in my research.
 
 # Reading List
-- [ ] [Metrics and methods for a systematic comparison of fairness-aware machine learning algorithms](https://arxiv.org/abs/2010.03986)
+- [x] [Metrics and methods for a systematic comparison of fairness-aware machine learning algorithms](https://arxiv.org/abs/2010.03986)
+- [x] [A Framework for Benchmarking Discrimination-Aware Models in Machine Learning](https://dl.acm.org/doi/10.1145/3306618.3314262)
+- [x] [AI Fairness: How to Measure and Reduce Unwanted Bias in Machine Learning](https://krvarshney.github.io/pubs/MahoneyVH2020.pdf)
 - [ ] [Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence](https://arxiv.org/abs/2007.04068)
 - [ ] [Moving beyond “algorithmic bias is a data problem”](https://www.cell.com/patterns/fulltext/S2666-3899(21)00061-1)
 - [ ] [The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning](https://arxiv.org/abs/1808.00023)
 - [ ] [Dissecting Racial Bias in a Credit Scoring System Experimentally Developed for the Brazilian Population](https://arxiv.org/abs/2011.09865v2)
-- [ ] [AI Fairness 360: IBM open source toolkit.](https://aif360.mybluemix.net/)   
 - [ ] [AI Explainability 360](https://github.com/Trusted-AI/AIX360)
 - [ ] [AI Fairness 360](https://github.com/Trusted-AI/AIF360)
 - [ ] [Blog Post: A Tutorial on Fairness in Machine Learning](https://towardsdatascience.com/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb)
@@ -21,7 +22,7 @@ Notes, references and materials on AI Fairness that I found useful and helped me
 - [ ] [Race After Technology: Abolitionist Tools for the New Jim Code](https://www.ruhabenjamin.com/race-after-technology)
 - [ ] [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
 - [ ] [Optimization with Non-Differentiable Constraints with Applications to Fairness, Recall, Churn, and Other Goals](https://arxiv.org/abs/1809.04198v1)
-- [ ] [Fair Correlation Clustering]()
+- [ ] [Inherent Trade-Offs in the Fair Determination of Risk Scores](https://arxiv.org/pdf/1609.05807.pdf)
 
 ### COMPAS and Criminal Justice
 - [ ] [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)

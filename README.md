@@ -2,6 +2,7 @@
 Notes, references and materials on AI Fairness that I found useful and helped me in my research.
 
 # Reading List
+- [ ] [Trustworthy Machine Learning by Kush R. Varshney (Book)](http://www.trustworthymachinelearning.com/)
 - [x] [Metrics and methods for a systematic comparison of fairness-aware machine learning algorithms](https://arxiv.org/abs/2010.03986)
 - [x] [A Framework for Benchmarking Discrimination-Aware Models in Machine Learning](https://dl.acm.org/doi/10.1145/3306618.3314262)
 - [x] [AI Fairness: How to Measure and Reduce Unwanted Bias in Machine Learning](https://krvarshney.github.io/pubs/MahoneyVH2020.pdf)
